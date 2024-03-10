@@ -32,11 +32,11 @@
     <div class="col-lg-4 col-5 footer-links">
       <h4>Our Services</h4>
       <ul>
-        <li><a href="bookkeeping.php">Bookkeeping and Accounting</a></li>
-        <li><a href="index.php#services">Auditing Services</a></li>
-        <li><a href="index.php#services">Taxation Expertise</a></li>
-        <li><a href="index.php#services">Compliance Solutions</a></li>
-        <li><a href="index.php#services">Financial Analysis</a></li>
+              <li><a href="bookkeeping.php">Bookkeeping and Accounting</a></li>
+              <li><a href="auditing.php">Auditing Services</a></li>
+              <li><a href="taxation.php">Taxation Expertise</a></li>
+              <li><a href="compliance.php">Compliance Solutions</a></li>
+              <li><a href="financial-advisory.php">Financial Analysis</a></li>
       </ul>
     </div>
 

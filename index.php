@@ -280,7 +280,7 @@
             <div class="service-item d-flex">
               <div class="icon flex-shrink-0"><i class="bi bi-card-checklist"></i></div>
               <div>
-                <h4 class="title"><a href="#" class="stretched-link">Auditing Services</a></h4>
+                <h4 class="title"><a href="auditing.php" class="stretched-link">Auditing Services</a></h4>
                 <p class="description">Navigate the complexities of auditing with confidence. Our skilled auditors
                   ensure transparency and compliance, instilling trust and confidence in your financial reporting.</p>
               </div>
@@ -291,7 +291,7 @@
             <div class="service-item d-flex">
               <div class="icon flex-shrink-0"><i class="bi bi-bar-chart"></i></div>
               <div>
-                <h4 class="title"><a href="#" class="stretched-link">Taxation Expertise</a></h4>
+                <h4 class="title"><a href="taxation.php" class="stretched-link">Taxation Expertise</a></h4>
                 <p class="description">Unlock the full potential of tax planning and compliance. Finfair Solutions
                   guides you through intricate tax landscapes, maximizing savings and ensuring adherence to evolving
                   regulations.</p>
@@ -303,7 +303,7 @@
             <div class="service-item d-flex">
               <div class="icon flex-shrink-0"><i class="bi bi-binoculars"></i></div>
               <div>
-                <h4 class="title"><a href="#" class="stretched-link">Compliance Solutions</a></h4>
+                <h4 class="title"><a href="compliance.php" class="stretched-link">Compliance Solutions</a></h4>
                 <p class="description">Stay ahead of regulatory changes seamlessly. Our compliance experts offer
                   tailored solutions, keeping your business compliant and resilient in a dynamic regulatory environment.
                 </p>
@@ -315,7 +315,7 @@
             <div class="service-item d-flex">
               <div class="icon flex-shrink-0"><i class="bi bi-brightness-high"></i></div>
               <div>
-                <h4 class="title"><a href="#" class="stretched-link">Financial Analysis</a></h4>
+                <h4 class="title"><a href="financial-advisory.php" class="stretched-link">Financial Analysis</a></h4>
                 <p class="description">Transform raw data into strategic insights. Our financial analysts employ
                   cutting-edge tools to provide in-depth analysis, empowering you to make informed decisions that drive
                   success.</p>

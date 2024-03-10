@@ -20,10 +20,10 @@
           <li class="dropdown has-dropdown"><a href="index.php#services"><span>Services</span> <i class="bi bi-chevron-down"></i></a>
             <ul class="dd-box-shadow">
               <li><a href="bookkeeping.php">Bookkeeping and Accounting</a></li>
-              <li><a href="#">Auditing Services</a></li>
-              <li><a href="#">Taxation Expertise</a></li>
-              <li><a href="#">Compliance Solutions</a></li>
-              <li><a href="#">Financial Analysis</a></li>
+              <li><a href="auditing.php">Auditing Services</a></li>
+              <li><a href="taxation.php">Taxation Expertise</a></li>
+              <li><a href="compliance.php">Compliance Solutions</a></li>
+              <li><a href="financial-advisory.php">Financial Analysis</a></li>
             </ul>
           </li> 
           <!-- <li><a href="index.php#contact">Contact</a></li> -->
